@@ -1,2 +1,1 @@
-# blanch-ranch-smp
-Wiki for the Blanch Ranch SMP
+# Click [here](https://github.com/Blanchard-Development/blanch-ranch-smp/wiki) for the wiki!
