@@ -1,0 +1,15 @@
+[
+    {
+        "path":"/Discord-linking.md",
+        "default":true
+    },
+    {
+        "path":"/Proximity-chat.md"
+    },
+    {
+        "path":"/Economy.md"
+    },
+    {
+        "path":"/Bounties.md"
+    }
+]
